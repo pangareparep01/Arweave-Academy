@@ -80,7 +80,7 @@ Developers who complete all the courses and submit the tasks will receive a Leve
 
 <!-- 3. Why should developers care about Arweave？| [Learn]() -->
 
-| Task | Topic | Status |
+| Task | Topic | Status | -
 |-------|-------|-------|
 | [task1](https://openbuild.xyz/quiz/202501081) | 6 Quizs for "Intro to Arweave" | Ongoing |
 | [task2](https://openbuild.xyz/quiz/202501082) | 8 Quizs for "Intro to Arweave" | Ongoing |
