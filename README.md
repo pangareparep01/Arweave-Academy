@@ -64,7 +64,7 @@ Developers who complete all the courses and submit the tasks will receive a Leve
 
 ### Level 1 Introduction to Arweave and AO
 
-#### Module 1: Understanding Arweave
+#### Module 1: Understanding Arweave -
 
 1. Intro to Arweave | [Learn](https://academy.developerdao.com/tracks/arweave-101/1)
     - What is Arweave?
