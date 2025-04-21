@@ -48,7 +48,7 @@ Developers need to complete GitHub registration by following these steps:
 
 ## Task Submission
 
-After each course there will be a series of tasks. These tasks will test whether you have mastered the course content. You will be redirected to the @OpenBuildxyz platform to complete the task and submit a screenshot of the result to your folder in the GitHub repository.
+After each course there will be a series of tasks. These tasks will test whether you have mastered the course content. You will be redirected to the @OpenBuildxyz platform to complete the task and submit a screenshot of the result to your folder in the GitHub repository. -
 
 For example, to submit `task1`, follow these steps:
 
