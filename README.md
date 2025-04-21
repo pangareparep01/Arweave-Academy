@@ -104,7 +104,7 @@ Developers who complete all the courses and submit the tasks will receive a Leve
     - Deploying the DApp
     - Creating a Human-Friendly Name for the DApp
 
-| Task | Topic | Status |
+| Task | Topic | Status | -
 |-------|-------|-------|
 | [task4](https://openbuild.xyz/quiz/202501084) | 6 Quizs for "Access Data on Arweave" | Ongoing |
 | [task5](https://openbuild.xyz/quiz/202501085) | 6 Quizs for "Access Data on Arweave" | Ongoing |
